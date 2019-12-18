@@ -1,10 +1,13 @@
-# Demo
-This is my first 
-- Point 1
-- Point 2
+# My Repo for latest projects at INSAID
 
-___
+## Here is the list of all projects
 
-```
-print('hello world')
-```
+- [Finance](https://github.com/v-rao/demo/tree/master/finance-project "Finance")
+- Accounts
+- Banking
+- Energy
+
+| Finance project | [![Fin](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")  |
+| :------------: | :------------: |
+| [![Accounts](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  | Accounts  project |
+| Banking  project | [![Banking]
